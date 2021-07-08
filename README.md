@@ -67,4 +67,29 @@ model_trained = model.fit()
 - homoscedasticity (Dependent variable -> ln(y))
 ![homoscedasticity](https://user-images.githubusercontent.com/57882064/124878189-71f3ff00-df91-11eb-968f-47169c2e2741.png)
 
-### 4. 
+### 4. Model Summary
+
+- Improve dependent variable with reference to Plots
+- Removes variables with high P-value (>0.05)
+- Updates the model
+![updated](https://user-images.githubusercontent.com/57882064/124880250-b385a980-df93-11eb-8d76-7f434ed955cd.png)
+
+### 5. Model Evaluation
+
+- 3 metrics for model evaluation in regression:
+- Mean Square Error(MSE)/Root Mean Square Error(RMSE)
+- Mean Absolute Error(MAE)
+- R Square/Adjusted R Square
+
+Training MSE: 0.00016
+Training RMSE: 0.01246
+Training MAE: 0.00930
+Training MAPE: 2.82531
+Training R2: 0.88840
+
+
+Testing MSE: 0.00016
+Testing RMSE: 0.01271
+Testing MAE: 0.00984
+Testing MAPE: 2.94770
+Testing R2: 0.87956
