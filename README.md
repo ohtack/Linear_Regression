@@ -20,7 +20,7 @@ This dataset is a slightly modified version of the dataset provided in the StatL
 
 Attribute Information:
 
-- mpg: continuous
+- **mpg: continuous
 - cylinders: multi-valued discrete
 - displacement: continuous
 - horsepower: continuous
@@ -37,5 +37,12 @@ Attribute Information:
 
 ### 1. Normality and homoscedasticity
 
+#### QQ Plot
+
+#### Residual Plot
+
+- Heteroscedasticity (Dependent variable for Raw data)
 ![Heteroscedasticity](https://user-images.githubusercontent.com/57882064/124874825-ceedb600-df8d-11eb-8e78-a2859b4960a8.png)
+
+- homoscedasticity (Dependent variable -> ln(y))
 ![homoscedasticity](https://user-images.githubusercontent.com/57882064/124874779-c1383080-df8d-11eb-9a8e-f7577f1dd862.png)
