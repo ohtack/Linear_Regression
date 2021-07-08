@@ -1,6 +1,9 @@
-## Linear_Regression
+# Linear_Regression
 
-Source:
+
+## The Auto MPG dataset from the UCI Machine Learning Repository.
+
+Source: 'http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data'
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
