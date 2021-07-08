@@ -45,4 +45,4 @@ Attribute Information:
 ![Heteroscedasticity](https://user-images.githubusercontent.com/57882064/124874825-ceedb600-df8d-11eb-8e78-a2859b4960a8.png)
 
 - homoscedasticity (Dependent variable -> ln(y))
-![homoscedasticity](https://user-images.githubusercontent.com/57882064/124874779-c1383080-df8d-11eb-9a8e-f7577f1dd862.png)
+![homoscedasticity](https://user-images.githubusercontent.com/57882064/124878189-71f3ff00-df91-11eb-968f-47169c2e2741.png)
