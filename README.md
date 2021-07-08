@@ -8,7 +8,7 @@ Linear regression models for Jupyter Notebook
 
 ## Dataset 
 
-[The Auto MPG dataset] (http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/)
+[The Auto MPG dataset](http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/)
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
