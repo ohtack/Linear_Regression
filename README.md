@@ -33,6 +33,8 @@ Attribute Information:
 ![dataset](https://user-images.githubusercontent.com/57882064/124872325-bcbe4880-df8a-11eb-8480-250f5ef7534e.png)
 
 
-***
+## Model
+
+### 1. Normality and Homoskedasticity
 
 
