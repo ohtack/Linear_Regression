@@ -2,7 +2,11 @@
 
 ***
 
-## The Auto MPG dataset from the UCI Machine Learning Repository.
+## Overview
+
+Linear regression models for Python
+
+The Auto MPG dataset
 
 * Source: <http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/>
 
@@ -16,15 +20,15 @@ This dataset is a slightly modified version of the dataset provided in the StatL
 
 Attribute Information:
 
-mpg: continuous
-cylinders: multi-valued discrete
-displacement: continuous
-horsepower: continuous
-weight: continuous
-acceleration: continuous
-model year: multi-valued discrete
-origin: multi-valued discrete
-car name: string (unique for each instance)
+*mpg: continuous
+*cylinders: multi-valued discrete
+*displacement: continuous
+*horsepower: continuous
+*weight: continuous
+*acceleration: continuous
+*model year: multi-valued discrete
+*origin: multi-valued discrete
+*car name: string (unique for each instance)
 
 ***
 
