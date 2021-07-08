@@ -35,17 +35,25 @@ Attribute Information:
 
 ## Model
 
-### 1. Normality and homoscedasticity
+### 1. Data preprocessing
 
-#### QQ Plot
+- Clean unknown values (n/a or NA)
+- One-Hot Encoding (USA / Europe / Japan)
+- Split train / test dataset
 
-- If the data is normally distributed, the points in the QQ-normal plot lie on a straight diagonal line
+### 2. Normality and homoscedasticity
+
+#### Residual QQ Plot
+
+- If the resudual is normally distributed, the points in the QQ-normal plot lie on a straight diagonal line
 ![qqplot](https://user-images.githubusercontent.com/57882064/124878410-b1bae680-df91-11eb-9242-118b3a5425d5.png)
 
-#### Residual Plot
+#### Residual Scatter Plot
 
 - Heteroscedasticity (Dependent variable for Raw data)
 ![Heteroscedasticity](https://user-images.githubusercontent.com/57882064/124874825-ceedb600-df8d-11eb-8e78-a2859b4960a8.png)
 
 - homoscedasticity (Dependent variable -> ln(y))
 ![homoscedasticity](https://user-images.githubusercontent.com/57882064/124878189-71f3ff00-df91-11eb-968f-47169c2e2741.png)
+
+### 3. 
