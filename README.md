@@ -35,6 +35,7 @@ Attribute Information:
 
 ## Model
 
-### 1. Normality and Homoskedasticity
+### 1. Normality and homoscedasticity
 
-
+![Heteroscedasticity](https://user-images.githubusercontent.com/57882064/124874825-ceedb600-df8d-11eb-8e78-a2859b4960a8.png)
+![homoscedasticity](https://user-images.githubusercontent.com/57882064/124874779-c1383080-df8d-11eb-9a8e-f7577f1dd862.png)
