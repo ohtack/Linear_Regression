@@ -20,15 +20,15 @@ This dataset is a slightly modified version of the dataset provided in the StatL
 
 Attribute Information:
 
--mpg: continuous
--cylinders: multi-valued discrete
--displacement: continuous
--horsepower: continuous
--weight: continuous
--acceleration: continuous
--model year: multi-valued discrete
--origin: multi-valued discrete
--car name: string (unique for each instance)
+- mpg: continuous
+- cylinders: multi-valued discrete
+- displacement: continuous
+- horsepower: continuous
+- weight: continuous
+- acceleration: continuous
+- model year: multi-valued discrete
+- origin: multi-valued discrete
+- car name: string (unique for each instance)
 
 ![dataset](https://user-images.githubusercontent.com/57882064/124872325-bcbe4880-df8a-11eb-8480-250f5ef7534e.png)
 
