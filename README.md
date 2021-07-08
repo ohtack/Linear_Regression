@@ -81,23 +81,15 @@ model_trained = model.fit()
 - Mean Absolute Error(MAE)
 - R Square/Adjusted R Square
 
-Training MSE: 0.00016
-
-Training RMSE: 0.01246
-
-Training MAE: 0.00930
-
-Training MAPE: 2.82531
-
-Training R2: 0.88840
+Training MSE: 0.00016<br/>
+Training RMSE: 0.01246<br/>
+Training MAE: 0.00930<br/>
+Training MAPE: 2.82531<br/>
+Training R2: 0.88840<br/>
 
 
-Testing MSE: 0.00016
-
-Testing RMSE: 0.01271
-
-Testing MAE: 0.00984
-
-Testing MAPE: 2.94770
-
-Testing R2: 0.87956
+Testing MSE: 0.00016<br/>
+Testing RMSE: 0.01271<br/>
+Testing MAE: 0.00984<br/>
+Testing MAPE: 2.94770<br/>
+Testing R2: 0.87956<br/>
