@@ -39,6 +39,9 @@ Attribute Information:
 
 #### QQ Plot
 
+- Normal Distribution
+![qqplot](https://user-images.githubusercontent.com/57882064/124878410-b1bae680-df91-11eb-9242-118b3a5425d5.png)
+
 #### Residual Plot
 
 - Heteroscedasticity (Dependent variable for Raw data)
