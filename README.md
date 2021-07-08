@@ -41,7 +41,18 @@ Attribute Information:
 - One-Hot Encoding (USA / Europe / Japan)
 - Split train / test dataset
 
-### 2. Normality and homoscedasticity
+### 2. Ordinary least squares (OLS) regression model
+
+```python
+import statsmodels.api as sm
+
+X_train = sm.add_constant(X_train) # Constant value added (1.0 added into dataset)
+model = sm.OLS(y_train, X_train, axis = 1)
+model_trained = model.fit()
+
+```
+
+### 3. Normality and homoscedasticity
 
 #### Residual QQ Plot
 
@@ -56,4 +67,4 @@ Attribute Information:
 - homoscedasticity (Dependent variable -> ln(y))
 ![homoscedasticity](https://user-images.githubusercontent.com/57882064/124878189-71f3ff00-df91-11eb-968f-47169c2e2741.png)
 
-### 3. 
+### 4. 
