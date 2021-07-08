@@ -1,9 +1,10 @@
 # Linear_Regression
 
+***
 
 ## The Auto MPG dataset from the UCI Machine Learning Repository.
 
-Source: 'http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/auto-mpg.data'
+* Source: <http://archive.ics.uci.edu/ml/machine-learning-databases/auto-mpg/>
 
 This dataset was taken from the StatLib library which is maintained at Carnegie Mellon University. The dataset was used in the 1983 American Statistical Association Exposition.
 
@@ -24,3 +25,7 @@ acceleration: continuous
 model year: multi-valued discrete
 origin: multi-valued discrete
 car name: string (unique for each instance)
+
+***
+
+
