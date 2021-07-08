@@ -30,7 +30,7 @@ Attribute Information:
 *origin: multi-valued discrete
 *car name: string (unique for each instance)
 
-![download](https://github.com/ohtack/Linear_Regression/issues/1#issue-939513303)
+![dataset](https://user-images.githubusercontent.com/57882064/124872325-bcbe4880-df8a-11eb-8480-250f5ef7534e.png)
 
 
 ***
