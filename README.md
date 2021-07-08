@@ -30,6 +30,8 @@ Attribute Information:
 *origin: multi-valued discrete
 *car name: string (unique for each instance)
 
+<img src = "https://github.com/ohtack/Linear_Regression/issues/1#issue-939513303" alt="image" >
+
 ***
 
 
